@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698359615346",
+    "project_id": "protectic-69e4e",
+    "storage_bucket": "protectic-69e4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698359615346:android:8fe2356181314ab68e57eb",
+        "android_client_info": {
+          "package_name": "com.example.protectic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuD8uOkN7cYrhIN2yom3J4-duOYNz-wCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

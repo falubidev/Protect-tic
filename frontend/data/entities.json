@@ -1,0 +1,218 @@
+{
+  "Colombia": {
+    "bancos": [
+      {
+        "nombre": "Bancolombia",
+        "web": "https://www.bancolombia.com/",
+        "contacto": [
+          "Teléfono: 018000 91 2345",
+          "Bogotá: 601 343 0000",
+          "Cali: 602 554 0505",
+          "Bucaramanga: 607 697 2525",
+          "Pereira: 606 340 1213",
+          "Medellín: 604 510 9000",
+          "Cartagena: 605 693 4400",
+          "Barranquilla: 605 361 8888"
+        ],
+        "logo": "assets/images/Logo_Bancolombia.webp"
+      },
+      {
+        "nombre": "Banco de Bogotá",
+        "web": "https://www.bancodebogota.com/",
+        "contacto": [
+          "Teléfono: 01 8000 51 8877",
+          "Bogotá: 601 382 00 00",
+          "Barranquilla: 605 350 43 00",
+          "Bucaramanga: 607 652 55 00",
+          "Cali: 602 898 00 77",
+          "Medellín: 604 576 43 30"
+        ],
+        "logo": "assets/images/Logo_Banco_de_Bogota.webp"
+      },
+      {
+        "nombre": "BBVA Colombia",
+        "web": "https://www.bbva.com.co/",
+        "contacto": [
+          "Teléfono: 01 8000 91 2227",
+          "Bogotá: 601 401 00 00",
+          "Medellín: 604 493 83 00",
+          "Bucaramanga: 607 630 40 00",
+          "Cali: 602 889 20 20",
+          "Barranquilla: 605 350 35 00"
+        ],
+        "logo": "assets/images/Logo_BBVA.webp"
+      },
+      {
+        "nombre": "Davivienda",
+        "web": "https://www.davivienda.com/",
+        "contacto": [
+          "Teléfono: 01 8000 12 3838",
+          "Bogotá: 601 338 3838"
+        ],
+        "logo": "assets/images/Logo_Davivienda.webp"
+      },
+      {
+        "nombre": "Banco de Occidente",
+        "web": "https://www.bancodeoccidente.com.co/",
+        "contacto": [
+          "Teléfono: 01 8000 51 4652",
+          "Bogotá: 601 3902058",
+          "Cali: 602 4851113",
+          "Medellín: 604 6052020",
+          "Barranquilla: 605 3869772"
+        ],
+        "logo": "assets/images/Logo_Banco_de_Occidente_logo.webp"
+      }
+    ],
+    "telefonia": [
+      {
+        "nombre": "Claro Colombia",
+        "web": "https://www.claro.com.co/",
+        "contacto": [
+          "Línea Claro: *611",
+          "Teléfono: 01 8000 34 1818",
+          "WhatsApp: 3112000000",
+          "Bogotá: 601 7441818 / 601 7500500"
+        ],
+        "logo": "assets/images/Logo_Claro.webp"
+      },
+      {
+        "nombre": "Movistar Colombia",
+        "web": "https://www.movistar.com.co/",
+        "contacto": [
+          "Móvil Movistar: *611",
+          "Teléfono: 01 8000 93 0930 / 601 5885204",
+          "WhatsApp: 3152333333"
+        ],
+        "logo": "assets/images/Logo_Movistar.webp"
+      },
+      {
+        "nombre": "Tigo Colombia",
+        "web": "https://www.tigo.com.co/",
+        "contacto": [
+          "Línea Tigo: *300",
+          "Teléfono: 01 8000 42 2222",
+          "WhatsApp: 3114110911"
+        ],
+        "logo": "assets/images/Logo_Tigo.webp"
+      },
+      {
+        "nombre": "WOM",
+        "web": "https://www.wom.co/",
+        "contacto": [
+          "Línea WOM: *302",
+          "Teléfono: 01 8000 123 2132",
+          "WhatsApp: 3027770000",
+          "Bogotá: 601 3078050"
+        ],
+        "logo": "assets/images/Logo_WOM.webp"
+      }
+    ],
+    "entidades": [
+      {
+        "nombre": "DANE",
+        "web": "https://www.dane.gov.co/",
+        "contacto": [
+          "Teléfono: 01 8000 91 2002",
+          "Conmutador: 601 5978300",
+          "Correo electrónico: contacto@dane.gov.co"
+        ],
+        "logo": "assets/images/Logo_DANE.webp"
+      },
+      {
+        "nombre": "DIAN",
+        "web": "https://www.dian.gov.co/",
+        "contacto": [
+          "Impuestos: 601 4899000",
+          "Aduanas: ​601 7948880",
+          "Centro Nacional de Cobro: 601 7948883"
+        ],
+        "logo": "assets/images/Logo_DIAN.webp"
+      },
+      {
+        "nombre": "Prosperidad Social",
+        "web": "https://www.prosperidadsocial.gov.co/",
+        "contacto": [
+          "Teléfono: 601 3791088",
+          "WhatsApp: 3188067329",
+          "SMS: 85594"
+        ],
+        "logo": "assets/images/Logo_Prosperidad_Social.webp"
+      }
+    ]
+  },
+  "Mexico": {
+    "bancos": [
+      {
+        "nombre": "BBVA México",
+        "web": "https://www.bbva.mx/",
+        "contacto": ["Teléfono: 55 5226 2663"],
+        "logo": "assets/images/BBVA.webp"
+      },
+      {
+        "nombre": "Citibanamex",
+        "web": "https://www.banamex.com/",
+        "contacto": ["Teléfono: 55 1226 2639"],
+        "logo": "assets/images/citibanamex.webp"
+      },
+      {
+        "nombre": "Santander México",
+        "web": "https://www.santander.com.mx/",
+        "contacto": ["Teléfono: 55 5169 4300"],
+        "logo": "assets/images/santander.webp"
+      },
+      {
+        "nombre": "Banorte",
+        "web": "https://www.banorte.com/",
+        "contacto": ["Teléfono: 81 8156 9600"],
+        "logo": "assets/images/banorte.webp"
+      },
+      {
+        "nombre": "HSBC México",
+        "web": "https://www.hsbc.com.mx/",
+        "contacto": ["Teléfono: 55 5721 3390"],
+        "logo": "assets/images/hsbc.webp"
+      }
+    ],
+    "telefonia": [
+      {
+        "nombre": "Telcel",
+        "web": "https://www.telcel.com/",
+        "contacto": ["Teléfono: 800 220 9518"],
+        "logo": "assets/images/Telcel.webp"
+      },
+      {
+        "nombre": "Movistar México",
+        "web": "https://www.movistar.com.mx/",
+        "contacto": ["Teléfono: 800 888 8366"],
+        "logo": "assets/images/Movistar.webp"
+      },
+      {
+        "nombre": "AT&T México",
+        "web": "https://www.att.com.mx/",
+        "contacto": ["Teléfono: 800 101 0288"],
+        "logo": "assets/images/AT&T.webp"
+      }
+    ],
+    "entidades": [
+      {
+        "nombre": "CONDUSEF",
+        "web": "https://www.condusef.gob.mx/",
+        "contacto": ["Teléfono: 55 5340 0999"],
+        "logo": "assets/images/Consusef.webp"
+      },
+      {
+        "nombre": "PROFECO",
+        "web": "https://www.gob.mx/profeco",
+        "contacto": ["Teléfono: 55 5568 8722"],
+        "logo": "assets/images/profeco.webp"
+      },
+      {
+        "nombre": "Policía Cibernética (Guardia Nacional)",
+        "web": "https://www.gob.mx/gncertmx/articulos/ciberseguridad-ciudadana-263949",
+        "contacto": ["Línea: 088"],
+        "logo": "assets/images/Policía-Cibernética-_Guardia-Nacional_.webp"
+      }
+    ]
+  }
+}
